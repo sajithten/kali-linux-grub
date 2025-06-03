@@ -29,3 +29,6 @@ umount /mnt
 ```
 os-prober
 update-grub
+
+```
+https://unix.stackexchange.com/questions/419773/kali-linux-is-installed-but-not-showing-in-boot-manager
